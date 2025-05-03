@@ -88,7 +88,7 @@
     "uglifyjs-webpack-plugin": "^2.2.0",
     "webpack-stream": "6.1.0"
   },
-  "devEngines": {
+  "engines": {
     "node": "14.x || 16.x",
     "npm": "2.x || 3.x || 5.x || 6.x || 7.x || 8.x"
   },
